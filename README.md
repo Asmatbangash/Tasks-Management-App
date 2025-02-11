@@ -1,1 +1,2 @@
-# Tasks
+# Tasks - Mangement 
+Developed a dynamic Task List application using React and Context API for state management. Key features include adding, editing, deleting, and marking tasks as completed. Integrated local storage for persistent data storage, ensuring tasks are saved between sessions and accessible on page reload. Built with a clean, responsive UI using Tailwind CSS. Demonstrates proficiency in React hooks, context management, and modern front-end development practices.
